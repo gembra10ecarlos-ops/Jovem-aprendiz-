@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Jovem Aprendiz Senac",
+  "description": "Um quiz interativo sobre o programa Jovem Aprendiz, com ranking e sistema de login.",
+  "requestFramePermissions": []
+}
